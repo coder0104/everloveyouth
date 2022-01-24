@@ -1,0 +1,199 @@
+
+
+body{
+    background-color: #fce1e1;
+}
+
+.img_1{
+    width: 31%;
+    height: 100%;
+    margin-left: 1%;
+    margin-top: 30%;
+    margin-bottom: 2%;
+}
+
+.img_2{
+    width: 31%;
+    height: 100%;
+    margin-bottom: 2%;
+}
+
+.img_3{
+    width: 31%;
+    height: 100%;
+    margin-bottom: 2%;
+}
+.img_4{
+    width: 31%;
+    height: 100%;
+    margin-left: 3.5%;
+    margin-top: 1%;
+    margin-bottom: 2%;
+}
+.img_5{
+    width: 31%;
+    height: 100%;
+    margin-left: 3.5%;
+    margin-bottom: 2%;
+}
+.img_6{
+    width: 31%;
+    height: 100%;
+    margin-bottom: 2%;
+}
+.img_7{
+    width: 31%;
+    height: 100%;
+    margin-left: 3.5%;
+    margin-top: 1%;
+    
+}
+.img_8{
+    width: 31%;
+    height: 100%;
+}
+.img_9{
+    width: 31%;
+    height: 100%;
+}
+.everlove{
+    width: 100%;
+  height: 50%;
+  object-fit: cover;
+}
+
+.important{
+    margin-top: 30%;
+    margin-left: 10%;
+    color: #ffffff;
+}
+.loat{
+    float: left;
+}
+.float{
+    text-align: center;
+    padding-top: 3.8%;
+    font-size: 1.5rem;
+    font-family: 'Do Hyeon', sans-serif;
+}
+.middle{
+    color: #c4c2c2;
+    font-size: 0.9rem;
+}
+
+.bottomnav{
+    background-color: #fff;
+    height: 100%;
+    width: 100%;
+}
+
+.home{
+    float: left;
+    margin:0 auto;
+    position:fixed;
+	bottom:0;
+	left:0;
+	right:0;
+	z-index:1000;
+    padding-left: 3.5%;
+    background-color: #fae8e8;
+    visibility: hidden;
+}
+
+.bottomimg{
+    width: 15%;
+    height: 15%;
+    margin-left: 3%;
+    margin-right: 5%;
+
+}
+
+.microphone_png{
+    width: 20%;
+    height: 100%;
+    margin-right: 3%;   
+}
+
+.livestreaming_png{
+    width: 23%;
+    height: 100%;
+    margin-right: 3%;
+}
+
+.inf_png{
+    width: 13%;
+    height: 100%;
+}
+
+.flex{
+    width: 50%;
+    margin: 0 auto;
+    padding-top: 5%;
+}
+
+.flex:after {
+    content: "";
+    display: block;
+    padding-bottom: 100%;
+  }
+
+.park{
+    width: 29.5%;
+    padding-left: 16%;
+}
+
+.bae{
+    width: 30%;
+    padding-left: 3%;
+}
+
+.bull{
+    padding-top: 3%;
+    padding-left: 7%;
+    width: 30%;
+}
+
+.broadcast{
+    margin-top: 3%;
+    padding-left: 25%;
+    width: 30%;
+}
+
+.sharing{
+    width: 30%;
+    margin-left: 35%;
+    margin-top: 0;
+}
+
+.well{
+    font-family: 'Do Hyeon', sans-serif;
+    padding-top: 20%;
+    text-align: center;
+    /* margin-left: 33%; */
+    font-size: 1.5rem;
+}
+
+@media screen and (max-width: 600px) {
+    .home{
+        visibility: visible;
+    }
+    .flex{
+        width: 100%;
+        position: relative;
+        padding-top: 30%;
+    }
+    .park{
+        width: 29.5%;
+        padding-left: 17%;
+    }
+}
+  
+
+  
+
+
+
+  
+  
+
+
